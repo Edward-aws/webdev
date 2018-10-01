@@ -776,7 +776,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0401-vegan.png) no-repeat;
+  background: url(../images/camera-72-170939.png) no-repeat;
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -851,7 +851,7 @@ p {
   margin-right: 4%;
 }
 #fh5co-menus .fh5co-food-menu ul li .fh5co-food-desc > figure img {
-  max-width: 100%;
+  max-width: 350%;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
